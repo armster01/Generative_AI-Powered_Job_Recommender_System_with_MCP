@@ -1,3 +1,10 @@
 APIFY API ---> LinkedIN, Naukri
 Resume ---> Extract resume data ---> LLM ---> Resume Summary, Skills and Gaps missing areas, Future roadmap and preparation plan
                                               (Job Keywords) ---> LinkedIN, Naukri jobs
+# Command Prompt
+!pip install uv
+uv init
+uv venv
+.venv\Scripts\activate
+uv add -r requirememts.txt
+uv add "mcp[cli]"
