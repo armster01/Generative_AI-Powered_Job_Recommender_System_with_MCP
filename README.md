@@ -1,4 +1,4 @@
-# Generative AI-Powered Job Recommender System (with MCP)
+# Generative AI-Powered Job Recommender System with MCP
 
 A Python-based job recommender system that combines generative AI with a Model Context Protocol (MCP) to produce personalized, explainable job recommendations. This repository contains code, examples, and tools for data preprocessing, model training/inference, evaluation, and a lightweight API to serve recommendations.
 
@@ -184,3 +184,5 @@ export HF_API_TOKEN="hf_..."
 - Create example notebook(s) for data ingestion and training
 - Draft Dockerfile and a small FastAPI app scaffold
 Tell me which you want next and I'll prepare the files.
+
+<img width="1893" height="810" alt="Screenshot 2025-11-11 202224" src="https://github.com/user-attachments/assets/841cd616-0994-452a-b754-5a8a12ed4a08" />
