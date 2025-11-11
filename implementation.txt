@@ -8,3 +8,4 @@ uv venv
 .venv\Scripts\activate
 uv add -r requirememts.txt
 uv add "mcp[cli]"
+mcp dev mcp_server.py
