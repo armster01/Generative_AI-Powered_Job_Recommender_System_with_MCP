@@ -186,3 +186,20 @@ export HF_API_TOKEN="hf_..."
 Tell me which you want next and I'll prepare the files.
 
 <img width="1893" height="810" alt="Screenshot 2025-11-11 202224" src="https://github.com/user-attachments/assets/841cd616-0994-452a-b754-5a8a12ed4a08" />
+<img width="1875" height="457" alt="Screenshot 2025-11-11 234958" src="https://github.com/user-attachments/assets/d6aa8ded-4d15-4f14-aecc-620a64ae8136" />
+<img width="1753" height="676" alt="Screenshot 2025-11-11 235040" src="https://github.com/user-attachments/assets/c09f2a76-92ca-4723-8d12-883ec73a7a84" />
+<img width="1496" height="668" alt="Screenshot 2025-11-11 235114" src="https://github.com/user-attachments/assets/5a334115-56f6-4ad3-a34d-79dc75575a78" />
+<img width="1710" height="640" alt="Screenshot 2025-11-11 235139" src="https://github.com/user-attachments/assets/0e485bbb-9c40-4130-b9ec-97d6e033701d" />
+<img width="1079" height="661" alt="Screenshot 2025-11-11 235155" src="https://github.com/user-attachments/assets/accd3e63-2577-4285-b4ae-18d6e2481deb" />
+<img width="878" height="773" alt="Screenshot 2025-11-12 000540" src="https://github.com/user-attachments/assets/e216741d-bbba-4ab3-af7c-f58884542805" />
+<img width="1011" height="102" alt="Screenshot 2025-11-12 003837" src="https://github.com/user-attachments/assets/b0abe084-c0ca-4afd-8fa4-644444d7ec0f" />
+<img width="1835" height="738" alt="Screenshot 2025-11-12 003906" src="https://github.com/user-attachments/assets/3eef5fb9-6b8b-43f1-ac72-106dd09eb03c" />
+<img width="753" height="575" alt="Screenshot 2025-11-12 004005" src="https://github.com/user-attachments/assets/f517696d-4589-4bfa-89b4-cc95b3770646" />
+
+
+
+
+
+
+
+
