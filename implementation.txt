@@ -1,0 +1,3 @@
+APIFY API ---> LinkedIN, Naukri
+Resume ---> Extract resume data ---> LLM ---> Resume Summary, Skills and Gaps missing areas, Future roadmap and preparation plan
+                                              (Job Keywords) ---> LinkedIN, Naukri jobs
